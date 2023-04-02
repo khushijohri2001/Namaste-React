@@ -1,0 +1,22 @@
+{
+  "name": "episode-1",
+  "version": "1.0.0",
+  "description": "This is Episode 1 of Namaste React",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khushijohri2001/Namaste-React.git"
+  },
+  "author": "Khushi Johri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khushijohri2001/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/khushijohri2001/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
